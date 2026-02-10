@@ -56,4 +56,5 @@ int main() {
     scanf("%s", input);
     checkBalance(input);
     return 0;
+    
 }
