@@ -46,3 +46,4 @@ Finally, if the stack is empty after the scan, the expression is balanced.
 Example 1: Enter mathematical expression: a+(b-c)*(d
 
 The expression is not balanced
+
